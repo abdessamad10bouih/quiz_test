@@ -72,8 +72,8 @@ body{
 }
 .progress{
     height: 6vh;
-    display: grid;
-    place-items: center;
+    align-items: center;
+    justify-content: center;
 }
 .progress-bar{
     width: 50%;
